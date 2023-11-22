@@ -2,6 +2,13 @@
 
 A MERN based application where we can chat in realtime . It uses socket.io to enable realtime communication . 
 
+Features - 
+1) User login and signup ( uses JWT and Mongodb to store user data)
+2) Individual Chats
+3) Group Chats ( create group chats , remove users from group chat , add members )
+4) Notifications for the realtime chats
+5) Search user functionality
+6) User modal showing information about a particular user
 
 
 ![image](https://github.com/kaushikbhatt12/realtime-chat/assets/82044181/2d0e2129-36a9-4185-aad6-9fd948e99c7f)
