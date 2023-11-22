@@ -1,6 +1,6 @@
 # chitchat 
 
-A MERN based application where we can chat in realtime . It uses socket.io to enable realtime communication . 
+A MERN (Mongodb , Express , React js , Node js ) based application where we can chat in realtime . It uses socket.io to enable realtime communication . 
 
 Features - 
 1) User login and signup ( uses JWT and Mongodb to store user data)
